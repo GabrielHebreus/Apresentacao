@@ -62,6 +62,6 @@
   <br>
 </div>
 
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #00d2ff, #3a7bd5, #00d2ff);">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=twinkling"/>
 </div>
