@@ -6,11 +6,11 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C+I'm+Gabriel;Data+Analyst+%7C+Backend+Developer;Power+BI+%7C+SQL+%7C+Python;APIs+%7C+Automations+%7C+Cloud;Always+learning!&center=true&size=24&color=gradient">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá%2C+eu+sou+Gabriel;Analista+de+Dados+%7C+Backend+Developer;Power+BI+%7C+SQL+%7C+Python;APIs+%7C+Automação+%7C+Cloud;Sempre+aprendendo!&center=true&size=24&color=gradient">
   </a>
 </p>
 
-<h2 align="center" style="color: #00d2ff;">Projects 💻</h2>
+<h2 align="center" style="color: #00d2ff;">Projetos 💻</h2>
 
 <div align="center">
   <a href="https://github.com/GabrielHebreus/automacao-contracheque">
@@ -20,14 +20,14 @@
     <img src="https://img.shields.io/badge/Dashboards-Power%20BI%20%7C%20DAX-00d2ff?style=for-the-badge&logoColor=white" alt="Dashboards Power BI">
   </a>
   <a href="https://github.com/GabrielHebreus/sql-queries">
-    <img src="https://img.shields.io/badge/SQL%20Queries-PostgreSQL%20%7C%20MySQL-00d2ff?style=for-the-badge&logoColor=white" alt="SQL Queries">
+    <img src="https://img.shields.io/badge/Consultas%20SQL-PostgreSQL%20%7C%20MySQL-00d2ff?style=for-the-badge&logoColor=white" alt="SQL Queries">
   </a>
   <a href="https://github.com/GabrielHebreus/backend-apis">
     <img src="https://img.shields.io/badge/Backend%20APIs-FastAPI%20%7C%20Node.js-00d2ff?style=for-the-badge&logoColor=white" alt="Backend APIs">
   </a>
 </div>
 
-<h2 align="center" style="color: #3a7bd5;">Main Skills 🚀</h2>
+<h2 align="center" style="color: #3a7bd5;">Principais Habilidades 🚀</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
   <img src="https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 </p>
 
-<h2 align="center" style="color: #00d2ff;">Tools 🛠️</h2>
+<h2 align="center" style="color: #00d2ff;">Ferramentas 🛠️</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
-<h2 align="center" style="color: #3a7bd5;">Other Knowledge 💡</h2>
+<h2 align="center" style="color: #3a7bd5;">Outros Conhecimentos 💡</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -56,16 +56,16 @@
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
-<h2 align="center" style="color: #00d2ff;">Studying at the Moment 📚</h2>
+<h2 align="center" style="color: #00d2ff;">Estudando no Momento 📚</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Data%20Engineering-FF5722?style=for-the-badge&logo=apache-spark&logoColor=white">
-  <img src="https://img.shields.io/badge/-Cloud%20Services-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
-  <img src="https://img.shields.io/badge/-Advanced%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/-Engenharia%20de%20Dados-FF5722?style=for-the-badge&logo=apache-spark&logoColor=white">
+  <img src="https://img.shields.io/badge/-Serviços%20em%20Nuvem-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+  <img src="https://img.shields.io/badge/-APIs%20Avançadas-009688?style=for-the-badge&logo=fastapi&logoColor=white">
 </p>
 
 <div align="center">
   <br>
-  <p align="center" style="color: #00d2ff;"><b>Visitors Count 👀</b></p>  
+  <p align="center" style="color: #00d2ff;"><b>Contador de Visitas 👀</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GabrielHebreus}/count.svg" /></p> 
   <br>
 </div>
